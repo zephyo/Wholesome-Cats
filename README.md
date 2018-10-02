@@ -1,4 +1,4 @@
-# Wholesome Cats (Google Play/iOS/Facebook Messenger)
+# Wholesome Cats (Cute RPG)
 ![header image](https://img.itch.zone/aW1nLzE1MjE0MzgucG5n/original/FGpGqx.png)
 ***
 ## A cute, kind RPG: Explore, befriend, then collect wholesome cats!
