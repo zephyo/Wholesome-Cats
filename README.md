@@ -1,4 +1,3 @@
-# Wholesome Cats (Cute RPG)
 ![header image](https://img.itch.zone/aW1nLzE1MjE0MzgucG5n/original/FGpGqx.png)
 ***
 ## A cute, kind RPG: Explore, befriend, then collect wholesome cats!
@@ -12,8 +11,14 @@ height = "80" /></a>
 height="80" /></a>
 
 ***
-I created this game during my summer 2018 internship at Zynga for an internal hackathon. Feedback was great so I acquired the rights for the game from the company, finished the game, then published. I just love cats so much!
-                
+<img align="left" height="120" src="https://img.itch.zone/aW1hZ2UvMzA3MTk2LzE1MjExNDIuZ2lm/315x250%23c/VR6uaR.gif" 
+/> I created this game during my summer 2018 internship at Zynga for an internal hackathon. Feedback was great so I acquired the rights for the game from the company, finished the game, then published. 
+
+I just love cats so much!  
+
+
+
+
 Features
 ------
 ### Map
