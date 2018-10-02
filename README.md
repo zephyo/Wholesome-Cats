@@ -25,13 +25,14 @@ Features
 * Pit 2 teams of 1-4 characters against each other
 * Ability to attack or "act", which will either start dialogue or give a powerup
 ### Load/Save 
-* Saved and loaded in JSON using MiniJSON, JsonUtility, and Json.NET
+* Saved and loaded PlayerData instance by serializing into JSON using MiniJSON, JsonUtility, and Json.NET
 * Save locally or to Firebase Realtime Database
 ### User authentication
 * Create, login, logout, and delete account
 * Email verification and password reset features
 ### Asset Bundling
 * Moved memory-heavy assets to asset bundles on AWS S3
+* Loaded Asset Bundles with UnityWebRequest instead of WWW.LoadFromCacheOrDownload for performance
 * Reduced Facebook Messenger WebGL build from to 6.7 MB
 ### Monetization
 * Android, iOS, and Messenger contain in-app purchases using Unity's Codeless IAP for Android/iOS and Facebook's Game SDK for Messenger
