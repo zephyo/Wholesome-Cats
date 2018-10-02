@@ -59,6 +59,7 @@ Technologies
 * Json.NET
 * Unity
 * Xcode
+* AWS S3
 * HTML/Javascript
 * Adobe After Effects
 * Adobe Photoshop
