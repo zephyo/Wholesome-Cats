@@ -12,7 +12,8 @@ height = "80" /></a>
 height="80" /></a>
 
 ***
-
+I created this game during my summer 2018 internship at Zynga for an internal hackathon. Feedback was great so I acquired the rights for the game from the company, finished the game, then published. I just love cats so much!
+                
 Features
 ------
 ### Map
@@ -33,7 +34,7 @@ Features
 ### Asset Bundling
 * Moved memory-heavy assets to asset bundles on AWS S3
 * Loaded Asset Bundles with UnityWebRequest instead of WWW.LoadFromCacheOrDownload for performance
-* Reduced Facebook Messenger WebGL build from to 6.7 MB
+* Reduced Facebook Messenger WebGL build from 24.1 MB to 6.7 MB
 ### Monetization
 * Android, iOS, and Messenger contain in-app purchases using Unity's Codeless IAP for Android/iOS and Facebook's Game SDK for Messenger
 * Android/iOS contain Unity Ads integration
