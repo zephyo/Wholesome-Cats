@@ -12,7 +12,7 @@ height="60" /></p></a>
   <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Get_it_on_Google_play.svg/1000px-Get_it_on_Google_play.svg.png" 
 height = "60" /></p></a>
-  <a href="" target="_blank">
+  <a href="https://itunes.apple.com/us/app/wholesome-cats/id1436937938" target="_blank">
   <p align="center"><img src="https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" 
 height="60" /></p></a>
 
