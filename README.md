@@ -8,6 +8,7 @@
 <a href="https://apps.facebook.com/wholesome_cats" target="_blank">
   <p align="center"><img src="https://zephyo.github.io/img/messenger.png" 
 height="60" /></p></a>
+_*Messenger currently in review_
 <a href="https://play.google.com/store/apps/details?id=com.AngelaHe.WholesomeCats" target="_blank">
   <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Get_it_on_Google_play.svg/1000px-Get_it_on_Google_play.svg.png" 
@@ -66,4 +67,4 @@ Technologies
 
 Licensing
 ------
-The code in this repo is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php).
+Copyright (C) 2018 Angela He
