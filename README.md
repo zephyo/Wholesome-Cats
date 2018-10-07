@@ -8,7 +8,7 @@
 <a href="https://apps.facebook.com/wholesome_cats" target="_blank">
   <p align="center"><img src="https://zephyo.github.io/img/messenger.png" 
 height="60" /></p></a>
-_Messenger currently in review_
+*Messenger currently in review*
 <a href="https://play.google.com/store/apps/details?id=com.AngelaHe.WholesomeCats" target="_blank">
   <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Get_it_on_Google_play.svg/1000px-Get_it_on_Google_play.svg.png" 
